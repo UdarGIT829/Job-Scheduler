@@ -10,3 +10,5 @@ As many job systems are carried out through computer commands or by importing .C
 
 ## Implementation
 Most functions in this program will use builtin data-stuctures and simple functions to easy to understand source code at a minimal time efficiency as much as possible.
+
+This program is still in progress.
